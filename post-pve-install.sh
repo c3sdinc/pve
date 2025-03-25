@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# bash -c "$(wget -qLO - https://github.com/c3sdinc/pve/post-pve-install.sh)"
+# bash -c "$(wget -qLO - https://github.com/c3sdinc/pve/blob/main/post-pve-install.sh)"
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
 # License: MIT
